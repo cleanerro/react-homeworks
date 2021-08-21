@@ -1,0 +1,24 @@
+.container {
+margin: 10px;
+}
+
+.container button {
+    background-color: #898783;
+    margin: 0 30px 0 30px;
+    color: white;
+
+}
+
+.error {
+    border: 1px solid red;
+
+}
+
+.textError {
+    color: red;
+
+}
+
+.ok {
+    border: 1px solid green;
+}

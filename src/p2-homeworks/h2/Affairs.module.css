@@ -1,0 +1,38 @@
+.container {
+    margin: 10px;
+    padding: 5px;
+    background-color: #90999b;
+    display: flex;
+    width: 260px;
+    justify-content: space-between;
+    color: #ffffff;
+}
+
+.container button {
+    color: #e2e6ea;
+    background-color: #898783;
+}
+
+.name {
+    width: 100px;
+}
+
+.priority {
+
+}
+
+.buttons {
+    margin: 10px;
+    display: flex;
+    width: 260px;
+    justify-content: space-between;
+    padding: 5px;
+
+}
+
+.buttons button{
+    color: #e2e6ea;
+    background-color: #898783;
+
+}
+
